@@ -1,0 +1,8 @@
+Flask==1.1.1
+gunicorn==19.9.0
+numpy
+pandas
+scikit-learn  # Correct package name
+matplotlib
+Jinja2==2.11.3  # Ensure compatibility
+
